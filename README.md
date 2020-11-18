@@ -1,15 +1,15 @@
 # Classifying Horses and Humans with CNN Deep Learning
 
-##Project Overview
+## Project Overview
 I created an image classification application using a deep neural network with convolutions. This application trains a deep learning model on a dataset of images. It then uses the trained model to classify new images.
 
-##Key Skills Demonstrated:
+## Key Skills Demonstrated:
 Tensorflow and neural networks
 Model validation and evaluation
 
-##About dataset
+## About dataset
 Horses or Humans is a dataset of 300×300 images that contains 500 rendered images of various species of horse in various poses in various locations. It also contains 527 rendered images of humans in various poses and locations. Emphasis has been taken to ensure diversity of humans, and to that end there are both men and women as well as Asian, Black, South Asian and Caucasians present in the training set. The validation set adds 6 different figures of different gender, race and pose to ensure breadth of data.
 
 
-##Objective
+## Objective
 To create a model that correct classifies images as horses or humans
