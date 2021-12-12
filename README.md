@@ -11,7 +11,7 @@ Model validation and evaluation
 To create a model that correctly classifies images of fashion items
 
 ## Repository Navigation
-The project is documented in [finding_donors.ipynb](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/finding_donors.ipynb). 
+The project is documented in [Fashion_MNIST_Image_Classifier_CNN.ipynb](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/finding_donors.ipynb). 
 
 ## Outcome
 ![](Output.png)
