@@ -10,4 +10,4 @@ Model validation and evaluation
 ## Objective
 To create a model that correctly classifies images of fashion items
 
-
+![](Output.png)
