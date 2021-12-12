@@ -10,5 +10,8 @@ Model validation and evaluation
 ## Objective
 To create a model that correctly classifies images of fashion items
 
+## Repository Navigation
+The project is documented in [finding_donors.ipynb](https://github.com/iDataist/Find-Donors-for-CharityML/blob/master/finding_donors.ipynb). 
+
 ## Outcome
 ![](Output.png)
