@@ -4,8 +4,9 @@
 I created an image classification application using a deep neural network with convolutions. This application trains a deep learning model on a dataset of fashion item images. It then uses the trained model to classify new images.
 
 ## Key Skills Demonstrated:
-Tensorflow and convolutional neural networks
-Model validation and evaluation
+* Tensorflow
+* Convolutional neural networks
+* Model validation and evaluation
 
 ## Objective
 To create a model that correctly classifies images of fashion items
